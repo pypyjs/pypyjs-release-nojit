@@ -2,6 +2,8 @@
 PyPy.js:  PyPy compiled into JavaScript
 =======================================
 
+**Note:** Development is sleeping at the moment. Discuss this here: https://github.com/pypyjs/pypyjs/issues/213
+
 This is a version of the PyPy python interpreter, compiled into javascript
 with emscripten.  It allows you to run a highly-compliant python environment
 in pure javascript, either in a browser or in a server-side javascript shell.
